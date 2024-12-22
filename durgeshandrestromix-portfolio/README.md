@@ -1,5 +1,9 @@
 # React + Vite
 
+# for running application use npm run dev 
+# for building application use npm run build
+# for deploying application on netlify deploy dist or asset folder to netlify
+
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
